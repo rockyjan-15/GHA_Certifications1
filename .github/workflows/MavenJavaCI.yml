@@ -1,4 +1,4 @@
-name: Maven CI Workflow
+name: Maven JavaCI Workflow
 
 on: 
  workflow_dispatch:
