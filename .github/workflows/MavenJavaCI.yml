@@ -2,7 +2,7 @@ name: Maven JavaCI Workflow
 
 on: 
 
-  issues:
+  issues
 
 jobs:
   build:
